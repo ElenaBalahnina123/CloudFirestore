@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250568691625",
+    "project_id": "cloudfirebase-edb3a",
+    "storage_bucket": "cloudfirebase-edb3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250568691625:android:866b3aed5762f771667eb8",
+        "android_client_info": {
+          "package_name": "com.slobozhaninova.cloudfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qiblMW6atad9yTo7VyO90fXQrdzAO_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
