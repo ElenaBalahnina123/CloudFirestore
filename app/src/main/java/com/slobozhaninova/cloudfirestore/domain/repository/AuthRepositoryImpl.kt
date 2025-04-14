@@ -1,6 +1,6 @@
 package com.slobozhaninova.cloudfirestore.domain.repository
 
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.FirebaseAuthDataSource
+import com.slobozhaninova.cloudfirestore.datasource.FirebaseAuthDataSource
 import com.slobozhaninova.cloudfirestore.domain.model.Email
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject

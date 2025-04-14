@@ -1,6 +1,6 @@
 package com.slobozhaninova.cloudfirestore.domain.repository
 
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.ItemDataSource
+import com.slobozhaninova.cloudfirestore.datasource.ItemDataSource
 import com.slobozhaninova.cloudfirestore.domain.model.ItemData
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.filterNotNull

@@ -5,10 +5,10 @@ import com.google.firebase.auth.ktx.auth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.FirebaseFirestoreSettings
 import com.google.firebase.ktx.Firebase
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.AuthorDataSource
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.BookDataSource
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.FirebaseAuthDataSource
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.ItemDataSource
+import com.slobozhaninova.cloudfirestore.datasource.AuthorDataSource
+import com.slobozhaninova.cloudfirestore.datasource.BookDataSource
+import com.slobozhaninova.cloudfirestore.datasource.FirebaseAuthDataSource
+import com.slobozhaninova.cloudfirestore.datasource.ItemDataSource
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

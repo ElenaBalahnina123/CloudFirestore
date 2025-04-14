@@ -149,7 +149,7 @@ fun LibraryScreen(
                 TopAppBar(
                     title = {
                         Text(
-                            text = "Book diary",
+                            text = "Cloud Firestore",
                             fontFamily = FontFamily.Cursive,
                             fontSize = 30.sp
                         )

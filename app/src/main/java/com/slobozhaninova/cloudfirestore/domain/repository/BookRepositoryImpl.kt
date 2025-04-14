@@ -1,6 +1,6 @@
 package com.slobozhaninova.cloudfirestore.domain.repository
 
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.BookDataSource
+import com.slobozhaninova.cloudfirestore.datasource.BookDataSource
 import com.slobozhaninova.cloudfirestore.domain.model.Book
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject

@@ -1,6 +1,6 @@
 package com.slobozhaninova.cloudfirestore.domain.repository
 
-import com.slobozhaninova.cloudfirestore.data.remote.datasource.AuthorDataSource
+import com.slobozhaninova.cloudfirestore.datasource.AuthorDataSource
 import com.slobozhaninova.cloudfirestore.domain.model.Author
 import javax.inject.Inject
 

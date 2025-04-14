@@ -1,4 +1,4 @@
-package com.slobozhaninova.cloudfirestore.data.remote.datasource
+package com.slobozhaninova.cloudfirestore.datasource
 
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
@@ -66,5 +66,3 @@ class FirebaseAuthDataSource @Inject constructor(
         }
     }
 }
-
-
